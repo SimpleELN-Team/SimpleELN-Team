@@ -31,11 +31,11 @@
         - deb: [SimpleELN-Personal-Desktop-linux-x64-1.0.0.deb](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-linux-x64-1.0.0.deb) 
         - rpm: [SimpleELN-Personal-Desktop-linux-x64-1.0.0.rpm](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-linux-x64-1.0.0.rpm) 
       - arm64
-        - deb:
-        - rpm: 
+        - deb: [SimpleELN-Personal-Desktop-linux-arm64-1.0.0.deb](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-linux-arm64-1.0.0.deb) 
+        - rpm: [SimpleELN-Personal-Desktop-linux-arm64-1.0.0.rpm](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-linux-arm64-1.0.0.rpm) 
     - Portable Version
-      - x86_64: 
-      - arm64 : 
+      - x86_64: [SimpleELN-Personal-Portable-linux-x64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-linux-x64-1.0.0.tar.gz) 
+      - arm64 : [SimpleELN-Personal-Portable-linux-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-linux-arm64-1.0.0.tar.gz) 
 
 - Team Edition
 - MultiTeam Edition
