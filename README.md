@@ -69,24 +69,10 @@
 
 # Installation guide
 
-  for personal usage, please consider personal edition. For groups with multiple members, please use the team or multiteam edition, which not only provide all the functionality of the personal edition, but also facilitates collaborations among group members. Please see the documentation for the installation and usage instructions.
+For individual use, kindly consider the [**Personal Edition**](https://github.com/SimpleELN-Team/SimpleELN-Personal). For larger groups with numerous members, we recommend the [**Team Edition**](https://github.com/SimpleELN-Team/SimpleELN-Team) or [**MultiTeam Edition**](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam), as it not only encompasses all the functionalities of the [**Personal Edition**](https://github.com/SimpleELN-Team/SimpleELN-Personal), but also streamlines collaboration among group members. For detailed installation and usage guidelines, please refer to the official documentation.
 
 # Documentation
 
-- Navigate to ${platform}-${arch} folder, eg win-x64
-- For Windows
-    - startserver.bat
-- For macOS or Linux
-    - ./startserver.sh
-   
-## Stop the server
-
-- Navigate to ${platform}-${arch} folder, eg win-x64
-- For Windows
-    - stopserver.bat
-- For macOS or Linux
-    - ./stopserver.sh
-   
 
 
    
