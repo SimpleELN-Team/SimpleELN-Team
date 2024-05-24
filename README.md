@@ -37,7 +37,7 @@
       - x86_64: [SimpleELN-Personal-Portable-linux-x64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-linux-x64-1.0.0.tar.gz) 
       - arm64 : [SimpleELN-Personal-Portable-linux-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-linux-arm64-1.0.0.tar.gz)
 
-- [**Team Edition**](https://github.com/SimpleELN-Team/SimpleELN-Team/releases)
+-  **Team Edition** [Releases](https://github.com/SimpleELN-Team/SimpleELN-Team/releases)
   - Server
     - Windows
       - x86_64: [SimpleELN-Team-Server-win-x64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Server-win-x64-1.0.0.zip) 
