@@ -5,7 +5,7 @@
 <p align='center'>
   <strong>An intuitive electronic laboratory notebook tailored for the archiving of research data</strong>
 </p>
-<p align='center'>
+<p style="text-align: center;">
   
   ### [Official website](https://www.elabftw.net) | [Live demo](https://demo.elabftw.net) | [Documentation](https://doc.elabftw.net) | [Dedicated hosting](https://www.deltablot.com/elabftw)
   
