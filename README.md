@@ -1,5 +1,9 @@
 # SimpleELN Team Server
 
+<p align='center'>
+  <img src='https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png' alt='SimpleELN logo' width="128" />
+</p>
+
 2\)![png tester2](https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png) 
 ## Installation guide
 
