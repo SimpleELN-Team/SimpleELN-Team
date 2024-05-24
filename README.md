@@ -1,17 +1,20 @@
-<h1 align='center'>SimpleELN User Guide</h1>
-<p align='center'>
+<h1 style="text-align: center;">SimpleELN User Guide</h1>
+<p style="text-align: center;">
   <img src='https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png' alt='SimpleELN logo' width="128" />
 </p>
-<p align='center'>
+<p style="text-align: center;">
   <strong>An intuitive electronic laboratory notebook tailored for the archiving of research data</strong>
 </p>
-# SimpleELN User Guide
+<p style="text-align: center;">
+  
+  ### [Official website](https://www.elabftw.net) | [Live demo](https://demo.elabftw.net) | [Documentation](https://doc.elabftw.net) | [Dedicated hosting](https://www.deltablot.com/elabftw)
+  
+</p>
+
+### [Official website](https://www.elabftw.net) | [Live demo](https://demo.elabftw.net) | [Documentation](https://doc.elabftw.net) | [Dedicated hosting](https://www.deltablot.com/elabftw)
 
 ## Installation guide
 
-- The simpleelnapp.jar file serves as a placeholder. Kindly substitute it with the officially released binary file.
-- Java >= 17.0.0
-- Download jdk or jre and extracted to ${platform}-${arch}/jre folder. For example, on Windows (x86_64), the relative path of the java.exe file is in ./win-x64/jre/bin/java.exe
 
 ## Run the server
 
