@@ -6,9 +6,21 @@
   <strong>An intuitive electronic laboratory notebook tailored for the archiving of research data</strong>
 </p>
 
-### [Official website](http://simpleeln.com) | [Live demo](http://simpleeln.com/login) | [Documentation](https://simpleeln-team.github.io/) | [Releases](https://github.com/SimpleELN-Team)
+### [Official website](http://simpleeln.com) | [Live demo](http://simpleeln.com/login) | [Documentation](https://simpleeln-team.github.io/)
 
 # Installation
+
+- Personal Edition
+  - Windows
+    - Desktop Version
+      - x86_64 : <https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe>
+      - arm64 
+    - Portable Version
+  - Mac
+  - Linux
+      
+- Team Edition
+- MultiTeam Edition
 
 ## Installation guide
 
