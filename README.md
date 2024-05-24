@@ -1,10 +1,10 @@
-# SimpleELN Team Server
 
 <p align='center'>
   <img src='https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png' alt='SimpleELN logo' width="128" />
 </p>
 
-2\)![png tester2](https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png) 
+# SimpleELN User Guide
+
 ## Installation guide
 
 - The simpleelnapp.jar file serves as a placeholder. Kindly substitute it with the officially released binary file.
