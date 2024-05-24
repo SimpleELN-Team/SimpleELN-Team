@@ -24,9 +24,19 @@
       - arm64 : [SimpleELN-Personal-Desktop-mac-arm64-1.0.0.dmg](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-mac-arm64-1.0.0.dmg)
     - Portable Version
       - x86_64: [SimpleELN-Personal-Portable-win-x64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-win-x64-1.0.0.zip)
-      - arm64 : N/A
+      - arm64 : [SimpleELN-Personal-Portable-mac-arm64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-mac-arm64-1.0.0.zip)
   - Linux
-      
+    - Desktop Version
+      - x86_64
+        - deb: [SimpleELN-Personal-Desktop-linux-x64-1.0.0.deb](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-linux-x64-1.0.0.deb) 
+        - rpm: [SimpleELN-Personal-Desktop-linux-x64-1.0.0.rpm](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-linux-x64-1.0.0.rpm) 
+      - arm64
+        - deb:
+        - rpm: 
+    - Portable Version
+      - x86_64: [SimpleELN-Personal-Portable-win-x64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-win-x64-1.0.0.zip)
+      - arm64 : [SimpleELN-Personal-Portable-mac-arm64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-mac-arm64-1.0.0.zip)
+
 - Team Edition
 - MultiTeam Edition
 
