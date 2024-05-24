@@ -1,4 +1,4 @@
-<h2 align='center'>User Guide</h2>
+<h1 align='center'>User Guide</h1>
 <p align='center'>
 
   <img src='https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png' alt='SimpleELN logo' width="128" />
