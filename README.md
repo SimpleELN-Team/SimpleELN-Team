@@ -69,7 +69,7 @@
 
 # Installation guide
 
-For individual use, kindly consider the [**Personal Edition**](https://github.com/SimpleELN-Team/SimpleELN-Personal). For larger groups with numerous members, we recommend the [**Team Edition**](https://github.com/SimpleELN-Team/SimpleELN-Team) or [**MultiTeam Edition**](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam), as it not only encompasses all the functionalities of the [**Personal Edition**](https://github.com/SimpleELN-Team/SimpleELN-Personal), but also streamlines collaboration among group members. For detailed installation and usage guidelines, please refer to the official documentation.
+For individual use, kindly consider the [**Personal Edition**](https://github.com/SimpleELN-Team/SimpleELN-Personal). For larger groups with numerous members, we recommend the [**Team Edition**](https://github.com/SimpleELN-Team/SimpleELN-Team) or [**MultiTeam Edition**](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam), as it not only encompasses all the functionalities of the [**Personal Edition**](https://github.com/SimpleELN-Team/SimpleELN-Personal), but also streamlines collaboration among group members. For detailed installation and usage guidelines, please refer to the [official documentation](https://simpleeln-team.github.io/).
 
 # Documentation
 
