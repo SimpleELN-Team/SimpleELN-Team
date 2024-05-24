@@ -73,6 +73,10 @@ For individual use, kindly consider the [**Personal Edition**](https://github.co
 
 # Documentation
 
+- [official documentation](https://simpleeln-team.github.io/)
+- [official documentation](https://simpleeln-documentation.readthedocs.io/en/latest/)
+
+
 
 
    
