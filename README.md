@@ -1,11 +1,11 @@
-<h1 style="text-align: center;">SimpleELN User Guide</h1>
-<p style="text-align: center;">
+<h1 align='center'>SimpleELN User Guide</h1>
+<p align='center'>
   <img src='https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png' alt='SimpleELN logo' width="128" />
 </p>
-<p style="text-align: center;">
+<p align='center'>
   <strong>An intuitive electronic laboratory notebook tailored for the archiving of research data</strong>
 </p>
-<p style="text-align: center;">
+<p align='center'>
   
   ### [Official website](https://www.elabftw.net) | [Live demo](https://demo.elabftw.net) | [Documentation](https://doc.elabftw.net) | [Dedicated hosting](https://www.deltablot.com/elabftw)
   
