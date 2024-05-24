@@ -6,7 +6,7 @@
   <strong>An intuitive electronic laboratory notebook tailored for the archiving of research data</strong>
 </p>
 
-### [Official website](http://simpleeln.com) | [Live demo](http://simpleeln.com/login) | [Documentation](https://simpleeln-team.github.io/) | [Download](https://github.com/SimpleELN-Team)
+### [Official website](http://simpleeln.com) | [Live demo](http://simpleeln.com/login) | [Documentation](https://simpleeln-team.github.io/) | [Release](https://github.com/SimpleELN-Team)
 
 
 ## Installation guide
