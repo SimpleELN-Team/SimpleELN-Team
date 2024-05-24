@@ -8,6 +8,7 @@
 
 ### [Official website](http://simpleeln.com) | [Live demo](http://simpleeln.com/login) | [Documentation](https://simpleeln-team.github.io/) | [Releases](https://github.com/SimpleELN-Team)
 
+# Installation
 
 ## Installation guide
 
