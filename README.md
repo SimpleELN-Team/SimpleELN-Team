@@ -3,7 +3,7 @@
   <img src='https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png' alt='SimpleELN logo' width="128" />
 </p>
 <p align='center'>
-  <strong>An intuitive electronic laboratory notebook tailored for the archiving of research data</strong>
+  <strong>an intuitive electronic laboratory notebook tailored for the archiving of research data</strong>
 </p>
 
 ### [Official website](http://simpleeln.com) | [Live demo](http://simpleeln.com/login) | [Documentation](https://simpleeln-team.github.io/)
