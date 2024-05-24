@@ -10,7 +10,7 @@
 
 # Releases
 
-- **Personal Edition** [Releases](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases)
+- **Personal Edition** [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases)
   - Windows
     - Desktop Version
       - x86_64: [SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe)
@@ -37,7 +37,7 @@
       - x86_64: [SimpleELN-Personal-Portable-linux-x64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-linux-x64-1.0.0.tar.gz) 
       - arm64 : [SimpleELN-Personal-Portable-linux-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-linux-arm64-1.0.0.tar.gz)
 
-- **Team Edition** [Releases](https://github.com/SimpleELN-Team/SimpleELN-Team/releases)
+- **Team Edition** [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-Team/releases)
   - Server
     - Windows
       - x86_64: [SimpleELN-Team-Server-win-x64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Server-win-x64-1.0.0.zip) 
@@ -52,7 +52,7 @@
     - x86_64: [SimpleELN-Team-Docker-Server-x64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Docker-Server-x64-1.0.0.tar.gz) 
     - arm64 : [SimpleELN-Team-Docker-Server-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Docker-Server-arm64-1.0.0.tar.gz)
 
-- **MultiTeam Edition** [Releases](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam/releases)
+- **MultiTeam Edition** [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam/releases)
   - Server
     - Windows
       - x86_64: [SimpleELN-MultiTeam-Server-win-x64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam/releases/download/v1.0.0/SimpleELN-MultiTeam-Server-win-x64-1.0.0.zip)  
