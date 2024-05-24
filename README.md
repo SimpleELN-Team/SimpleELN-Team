@@ -1,9 +1,10 @@
 <h1 align='center'>SimpleELN User Guide</h1>
 <p align='center'>
-
   <img src='https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png' alt='SimpleELN logo' width="128" />
 </p>
-
+<p align='center'>
+  <strong>An intuitive electronic laboratory notebook tailored for the archiving of research data</strong>
+</p>
 # SimpleELN User Guide
 
 ## Installation guide
