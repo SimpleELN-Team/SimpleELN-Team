@@ -13,7 +13,7 @@
 - Personal Edition
   - Windows
     - Desktop Version
-      - x86_64 : <https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe>
+      - x86_64 : [SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe)
       - arm64 
     - Portable Version
   - Mac
