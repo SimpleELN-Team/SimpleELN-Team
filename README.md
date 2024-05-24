@@ -1,5 +1,6 @@
 
 <p align='center'>
+  <h2>User Guide</h2>
   <img src='https://github.com/SimpleELN-Team/site-images/blob/main/simpleelnlogo.png' alt='SimpleELN logo' width="128" />
 </p>
 
