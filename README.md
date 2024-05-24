@@ -8,7 +8,7 @@
 
 ### [Official website](http://simpleeln.com) | [Live demo](http://simpleeln.com/login) | [Documentation](https://simpleeln-team.github.io/)
 
-# Installation
+# Releases
 
 - [**Personal Edition**](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases)
   - Windows
