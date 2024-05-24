@@ -10,11 +10,11 @@
 
 # Installation
 
-- Personal Edition
+- [Personal Edition](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases)
   - Windows
     - Desktop Version
-      - x86_64 : [SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe)
-      - arm64 
+      - x86_64: [SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe)
+      - arm64 : 
     - Portable Version
   - Mac
   - Linux
