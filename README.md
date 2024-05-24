@@ -67,10 +67,11 @@
     - x86_64: [SimpleELN-MultiTeam-Docker-Server-x64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam/releases/download/v1.0.0/SimpleELN-MultiTeam-Docker-Server-x64-1.0.0.tar.gz) 
     - arm64 : [SimpleELN-MultiTeam-Docker-Server-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam/releases/download/v1.0.0/SimpleELN-MultiTeam-Docker-Server-arm64-1.0.0.tar.gz) 
 
-## Installation guide
+# Installation guide
 
+  for personal usage, please consider personal edition. For groups with multiple members, please use the team or multiteam edition, which not only provide all the functionality of the personal edition, but also facilitates collaborations among group members. Please see the documentation for the installation and usage instructions.
 
-## Run the server
+# Documentation
 
 - Navigate to ${platform}-${arch} folder, eg win-x64
 - For Windows
