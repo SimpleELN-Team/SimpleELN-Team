@@ -10,7 +10,10 @@
 
 # Releases
 <details>
-<summary>**Personal Edition** [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases) </summary>
+<summary>Personal Edition [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases) </summary>
+
+### Releases for simpleELn Personal Edition
+  
   - Windows
     - Desktop Version
       - x86_64: [SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Desktop-win-x64-Setup-1.0.0.exe)
