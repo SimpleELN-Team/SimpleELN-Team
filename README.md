@@ -38,7 +38,24 @@
             - x86_64: [SimpleELN-Personal-Portable-linux-x64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-linux-x64-1.0.0.tar.gz) 
             - arm64 : [SimpleELN-Personal-Portable-linux-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases/download/v1.0.0/SimpleELN-Personal-Portable-linux-arm64-1.0.0.tar.gz)
 </details>
-    
+     
+<details>
+<summary>Personal Edition [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases) </summary>
+
+  - Windows
+    - Desktop Version
+      - x86_64: [SimpleELN-Team-Server-win-x64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Server-win-x64-1.0.0.zip) 
+      - arm64 : N/A
+    - Portable Version
+      - x86_64: [SimpleELN-Team-Server-mac-x64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Server-mac-x64-1.0.0.tar.gz) 
+      - arm64 : [SimpleELN-Team-Server-mac-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Server-mac-arm64-1.0.0.tar.gz) 
+  - Linux
+      - x86_64: [SimpleELN-Team-Server-linux-x64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Server-linux-x64-1.0.0.tar.gz) 
+      - arm64 : [SimpleELN-Team-Server-linux-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Server-linux-arm64-1.0.0.tar.gz) 
+  - macOS
+    - x86_64: [SimpleELN-Team-Docker-Server-x64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Docker-Server-x64-1.0.0.tar.gz) 
+    - arm64 : [SimpleELN-Team-Docker-Server-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Docker-Server-arm64-1.0.0.tar.gz)
+</details>   
 <details>
 <summary>Team Edition [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-Team/releases) </summary>
 
