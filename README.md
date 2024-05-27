@@ -8,7 +8,6 @@
 
 ### [Official website](http://simpleeln.com) | [Live demo](http://simpleeln.com/login) | [Documentation](https://simpleeln-team.github.io/)
 
-
 # Edition
 
   - [Personal Edition](https://github.com/SimpleELN-Team/SimpleELN-Personal)
@@ -21,10 +20,11 @@
     
     The MultiTeam Edition is tailored for departments, centers, companies, organizations, and other entities that encompass multiple independent team groups. This edition is particularly beneficial for multi-team laboratories or organizations that require collaboration between teams or users.
 
+
 # Releases
 
 <details>
-<summary>Personal Edition [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-Personal/releases) </summary>
+<summary>Personal Edition <a href="https://github.com/SimpleELN-Team/SimpleELN-Personal/releases">Latest Release</a> </summary>
 
   - Windows
     - Desktop Version
@@ -54,8 +54,8 @@
 </details>   
 
 <details>
-<summary>Team Edition [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-Team/releases) </summary>
-
+<summary>Team Edition <a href="https://github.com/SimpleELN-Team/SimpleELN-Team/releases">Latest Release</a> </summary>
+  
   - Server
     - Windows
       - x86_64: [SimpleELN-Team-Server-win-x64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Server-win-x64-1.0.0.zip) 
@@ -71,8 +71,8 @@
     - arm64 : [SimpleELN-Team-Docker-Server-arm64-1.0.0.tar.gz](https://github.com/SimpleELN-Team/SimpleELN-Team/releases/download/v1.0.0/SimpleELN-Team-Docker-Server-arm64-1.0.0.tar.gz)
 </details>
 <details>
-  <summary>MultiTeam Edition [Latest Release](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam/releases) </summary>
-
+  <summary>MultiTeam Edition <a href="https://github.com/SimpleELN-Team/SimpleELN-MultiTeam/releases">Latest Release</a> </summary>
+  
   - Server
     - Windows
       - x86_64: [SimpleELN-MultiTeam-Server-win-x64-1.0.0.zip](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam/releases/download/v1.0.0/SimpleELN-MultiTeam-Server-win-x64-1.0.0.zip)  
