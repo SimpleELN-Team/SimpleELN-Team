@@ -11,13 +11,13 @@
 
 # Edition
 
-  - Personal Edition
+  - [Personal Edition](https://github.com/SimpleELN-Team/SimpleELN-Personal)
     
     The Personal Edition is tailored for individual users, empowering them to create and manage their own experimental records. This edition is ideal for personal use as it ensures enhanced data security and provides a user-friendly experience during installation and daily use.
-  - Team Edition
+  - [Team Edition](https://github.com/SimpleELN-Team/SimpleELN-Team)
     
     The Team Edition is suitable for team-based groups, where one team account with a team admin role and multiple team user accounts can be created. This edition is ideal for multi-user single laboratories or organizations that require collaboration between team users.
-  - MultiTeam Edition
+  - [MultiTeam Edition](https://github.com/SimpleELN-Team/SimpleELN-MultiTeam)
     
     The MultiTeam Edition is tailored for departments, centers, companies, organizations, and other entities that encompass multiple independent team groups. This edition is particularly beneficial for multi-team laboratories or organizations that require collaboration between teams or users.
 
